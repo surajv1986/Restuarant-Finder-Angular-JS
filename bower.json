@@ -1,0 +1,25 @@
+{
+  "name": "Restuarant Finder Angular JS",
+  "version": "1.0.0",
+  "description": "Restraunt Finder Implemented Using Angular JS",
+  "main": "RestuarantHome.html",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "RestuarantFinder",
+    "AngularJS"
+  ],
+  "authors": [
+    "Jinto_Sir Suraj V"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
