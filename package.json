@@ -1,0 +1,23 @@
+{
+  "name": "restuarant_finder_using_angularjs",
+  "version": "1.0.0",
+  "description": "Restuarant Finder implemented using Angular JS",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajv1986/Restuarant-Finder-Angular-JS.git"
+  },
+  "author": "Narayan V alias Suraj V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surajv1986/Restuarant-Finder-Angular-JS/issues"
+  },
+  "homepage": "https://github.com/surajv1986/Restuarant-Finder-Angular-JS#readme"
+}
